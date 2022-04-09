@@ -10,7 +10,7 @@ crypto_arbitrage.ipynb is the main notebook and we are reading off of bitstamp.c
 There were no opportunities in the 'Late' stage data that we were working.
 
 # Credit
-Diego, Mounika, Roberto, for their help. UCB. 
+Diego, Mounika, Roberto, for their help.
 
 # License
 Anyone can use
